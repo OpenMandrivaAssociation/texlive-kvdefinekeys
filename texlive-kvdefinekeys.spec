@@ -1,6 +1,6 @@
 Name:		texlive-kvdefinekeys
 Version:	53193
-Release:	1
+Release:	2
 Summary:	Define keys for use in the kvsetkeys package
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/kvdefinekeys
