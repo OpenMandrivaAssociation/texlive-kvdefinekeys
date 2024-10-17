@@ -3,7 +3,7 @@ Version:	53193
 Release:	2
 Summary:	Define keys for use in the kvsetkeys package
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/kvdefinekeys
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/kvdefinekeys
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/kvdefinekeys.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/kvdefinekeys.doc.r%{version}.tar.xz
